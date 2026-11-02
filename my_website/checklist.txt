@@ -1,0 +1,129 @@
+list
+table
+external site
+map
+form
+classes
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+ideas:
+
+index - overview
+p1 - history/origin - map of factory - o.l. of variants
+p2 - present day - spec car img - external link to parts site
+p3 - future - table of how many left - historic repair program - form
+
+text -
+index -
+The Mazda MX-5 (Mk1), known in North America as the Mazda Miata, and released in Japan as the Eunos Roadster, is a lightweight, convertible, two-seater, roadster-style sports car released in 1989 that was produced until 1997. Commonly referred to by it's internal model-code the "NA" (later generations similarly, NB, NC, ND etc.) is a front-engined, rear-wheel drive (FR) S-segment vehicle that has gone on to become the world's best selling sports car and won multiple awards. Owners cherish the first-generation model due to it's predicatble handling & grip on the road, raw feeling with some models lacking modern amenities such as power brakes, windows & steering, and simplistic build, with it being well-known as a good car for beginner/hobbyist mechanics due to how easy they are to work on. And as well it's iconic 90s look with classic pop-up style headlights.
+
+p1//history-
+
+The NA was first conceived in the early 1980s by automotive journalist Bob Hall alongside Mazda's Kenichi Yamamoto, they wanted to emulate a spiritual successor to post-war British roadsters such as the MGB and the Lotus Elan, which inspired much of the styling.
+
+Following this, there was a design competition between Mazda's studios in Japan and California, with the design from the American side featuring the now iconic FR layout and curved design winning the selection.
+
+The primary design of the car was envisioned by Mazda designers Tom Matano, Mark Jordan, & Shunji Tanaka, who made sure to stick to Mazda's key design principle of 'Jinba Ittai', the Japanese concept meaning "horse and rider as one", which focuses on pure driver engagement and being able to feel the road beneath you, rather than pure speed and power.
+
+The car was then unveiled at the world-famous Chicago Auto Show in early 1989 to rave reviews from the press attending. The car itself was known by three different marks around the world, in Japan, Mazda released it under the Eunos badge, in an attempt to launch a premium line separate to their main badge, similar to what Toyota do with their Lexus brand. However in the rest of the world it was released under the Mazda badge, in the UK and Europe as the Mazda MX-5, and in North America as the Mazda Miata, derived from the Old High German word for "reward" or "prize", an idea brought by the car's developer Bob Hall.
+
+
+p2-present//
+
+Today in 2026 there is still a large enthusiast-led following and community, with helpful forums and active owners clubs with regular meetings. With a focus on maintaining these cars and keeping them on the roads, as well as modifying and customising them to the drivers liking. There are still many parts websites that offer both aftermarket modifications and OEM Mazda repair parts, with some popular sites linked below: 
+
+Popular modifications include styling such as body kits and interior mods such as seats & steering wheels, and also performance mods such as customisable suspension and engine modifications to boost engine power via forced induction such as turbo-charging.
+
+This in turn has led to an active motorsport scene featuring the MX-5, involving both racing and drifting, with the roadster also being a popular choice for auto-cross and time-attack events. Pictured is an American racing-series 'Spec Miata' in which drivers are limited to which modifications can be carried out in order to maintain an even field.
+
+
+
+
+p3-future//
+
+In Japan, Mazda themselves offer a 'Factory Restoration Service' including a full vehicle respray and engine rebuild, and also have continued production of spare parts for this vehicle which is approaching classic car status in the UK, still available at dealerships across the country.<br><br>
+
+The future looks bright for this 2-door sports car as in three years from now, 2029, the first models off the production line will be approaching 40 years old which will make them both MOT and Vehicle Tax exempt, which are some of the roadblocks to owners keeping their cars used all year round.<br><br>
+
+Below is a table showing how many models are left on the UK roads, both SORN (registered as off-the-road) & taxed and on the road, the numbers will often fluctuate as some owners may only tax their car for the summer as it goes back into storage over the winter. UK winters can be harsh on these cars due to the salted roads leading to expensive rust problems causing issues obtaining an MOT.<br><br>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-upxw{border-color:inherit;font-family:inherit;font-weight:bold;text-align:center;text-decoration:underline;
+  vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+
+                    <table class="tg">
+                        <thead>
+                            <tr>
+                                <th class="tg-7btt">Year</th>
+                                <th class="tg-7btt">Licensed</th>
+                                <th class="tg-7btt">SORN</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="tg-7btt">1989</td>
+                                <td class="tg-c3ow">73</td>
+                                <td class="tg-c3ow">274</td>
+                            </tr>
+                            <tr>
+                                <td class="tg-7btt">1990</td>
+                                <td class="tg-c3ow">674</td>
+                                <td class="tg-c3ow">1870</td>
+                            </tr>
+                            <tr>
+                                <td class="tg-7btt">1991</td>
+                                <td class="tg-c3ow">732</td>
+                                <td class="tg-c3ow">1841</td>
+                            </tr>
+                            <tr>
+                                <td class="tg-7btt">1992</td>
+                                <td class="tg-c3ow">548</td>
+                                <td class="tg-c3ow">1325</td>
+                            </tr>
+                            <tr>
+                                <td class="tg-7btt">1993</td>
+                                <td class="tg-c3ow">545</td>
+                                <td class="tg-c3ow">1263</td>
+                            </tr>
+                            <tr>
+                                <td class="tg-7btt">1994</td>
+                                <td class="tg-c3ow">441</td>
+                                <td class="tg-c3ow">1078</td>
+                            </tr>
+                            <tr>
+                                <td class="tg-7btt">1995</td>
+                                <td class="tg-c3ow">523</td>
+                                <td class="tg-c3ow">1109</td>
+                            </tr>
+                            <tr>
+                                <td class="tg-7btt">1996</td>
+                                <td class="tg-c3ow">514</td>
+                                <td class="tg-c3ow">1096</td>
+                            </tr>
+                            <tr>
+                                <td class="tg-7btt">1997</td>
+                                <td class="tg-c3ow">674</td>
+                                <td class="tg-c3ow">1259</td>
+                            </tr>
+                            <tr>
+                                <td class="tg-7btt">Totals</td>
+                                <td class="tg-upxw">4724</td>
+                                <td class="tg-upxw">11115</td>
+                            </tr>
+                        </tbody>
+                    </table>
+

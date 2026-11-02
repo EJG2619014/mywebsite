@@ -1,0 +1,91 @@
+header{
+    background-color: #8ca6c2;
+    color:rgb(29, 185, 5);
+    padding: 0px;
+    margin: 0px;
+    text-align:center
+}
+header p a{
+    color:#b33614;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    padding:0px;
+    margin:0px;
+    text-decoration: none;
+    
+}
+nav a{
+    color:rgb(148, 17, 17);
+    text-decoration: none;
+    margin: 0 20px; 
+}
+nav a:hover{
+    color:yellow;
+    text-decoration: underline;
+}
+section h1{
+    color:rgb(13, 57, 5);
+    font-family: Arial, sans-serif;
+    padding-left:10px;
+    text-align: center;
+    font-size:36px;
+}
+section h2{
+    color:darkblue;
+    font-size: 24px;
+}
+section h3{
+    color: blue;
+    font-size: 20px;
+}
+section img{
+    width:400px; height:400px; object-fit: contain;
+}
+p{
+    color:green;
+    font-size: 18px;
+    font-family: verdana, sans-serif;
+}
+body{
+    font-family: arial, sans-serif;
+    background-color: #600505;
+    margin: 15px;
+    padding: 0;
+}
+main{
+    background-color: rgb(210, 96, 96);
+    padding: 0px;
+    margin:0px;
+}
+section{
+    background-color: #8caed5;
+    padding:15px;
+    margin-top:20px;
+
+    border:1px solid rgb(5, 80, 105);
+}
+footer{
+    background-color: #8b3f3f;
+    color:white;
+    text-align: center;
+    position:fixed;
+    padding:5px;
+    bottom:0;
+    width: 100%;
+}
+footer p{
+    color: yellow;
+}
+section header{
+    background-color: rgb(198, 198, 31);
+    color:black;
+    padding:15px;
+    text-align:left;
+    border:2px solid orange;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color:#600505;
+    padding-left:10px;
+}
